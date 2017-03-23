@@ -1,8 +1,9 @@
 # Hello World
 Crash course on GitHub at Uni.
 
-This is a website:
-1. Targeted at children
-2. Educating them about the atmosphere
+Things covered in this project are:
+1. Stuff
+2. More stuff
+3. And even more stuff
 
 <a href="http://en.wikipedia.org/wiki/Hello_world">Hello World</a>
